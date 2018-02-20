@@ -1,0 +1,3 @@
+rootProject.name = 'riceporeact'
+
+include ':app'
